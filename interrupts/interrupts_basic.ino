@@ -19,4 +19,5 @@ void setup(){
 
 void butonToggle(){
   //Interrupt aktif olunca çalışacak kod bölümü
+  Serial.println("Kesme aktif");
 }
