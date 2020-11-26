@@ -33,6 +33,6 @@ void GorevUc( void * parameter){ //GorevUc sonsuz görev komut satırı
         Serial.println("Görev 3 ");
         delay(1000);
     }
-    Serial.println("Görev 3 Bitti");
+    Serial.println("Görev 3 Tur Bitti");
   }    
 }
